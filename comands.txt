@@ -4,3 +4,6 @@ npm i -D ts-node
 npm i -D nodemon
 npm i express body-parser compression cors cookie-parser 
 npm i -D @types/express @types/body-parser @types/compression @types/cors @types/cookie-parser
+npm install mongodb
+npm i mongoose
+npm i -D @types/mongoose
