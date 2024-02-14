@@ -1,4 +1,0 @@
-npm init -y
-npm install -D typescript
-npm i -D ts-node
-npm i -D nodemon
