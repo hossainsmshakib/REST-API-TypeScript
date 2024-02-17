@@ -7,3 +7,5 @@ npm i -D @types/express @types/body-parser @types/compression @types/cors @types
 npm install mongodb
 npm i mongoose
 npm i -D @types/mongoose
+npm install lodash
+npm install --save-dev @types/lodash
